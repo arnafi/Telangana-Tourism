@@ -1,0 +1,7 @@
+Mancherial==january,june,july,august,September
+Jayashankar Bhoopalpally==jan,feb,aug,sep,dec
+Warangal (Rural)==feb,july,aug,sep,dec
+Bhadradri Kothagudem == jan,april,june,sep,dec
+Rajanna Sircilla == jan,feb,march,may,dec
+Jagtial == jan,march,april,may,dec
+Hyderabad== jan,april,june,october,dec
